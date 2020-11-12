@@ -33,4 +33,4 @@ Run:
 > The clock is updated every 10 minutes, so **it is not up-to-date**. Because Discord is now __ratelimiting__ us for _10 minutes_ to change the channel's name! 
 
 # Join us on Discord
-[ 𝙄𝙣𝙛𝙞𝙣𝙞𝙩𝙮 ထ Discord server](https://cdn.discordapp.com/attachments/761523090390908929/764408858881425418/inf.jpg)](https://discord.gg/ZqNzHUp)
+[![ 𝙄𝙣𝙛𝙞𝙣𝙞𝙩𝙮 ထ Discord server](https://cdn.discordapp.com/attachments/761523090390908929/764408858881425418/inf.jpg)](https://discord.gg/ZqNzHUp)
