@@ -1,5 +1,3 @@
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/765133196438011917/776496675798646834/unknown.png"><br><br>
 
 ---
 
@@ -8,6 +6,9 @@
 </div>
 
 A Simple Discord Bot That Made Out Of Discord.js And moment.js Packages:)
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/765133196438011917/776496675798646834/unknown.png"><br><br>
 
 
 ## Get Started
